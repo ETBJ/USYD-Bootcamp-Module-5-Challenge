@@ -1,5 +1,5 @@
 # USYD-Bootcamp-Module-5-Challenge
-##Third-Party APIs Challenge: Work Day Scheduler
+## Third-Party APIs Challenge: Work Day Scheduler
 
 # Description
 A simple calendar application allows users to save events for each hour of a typical working day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
